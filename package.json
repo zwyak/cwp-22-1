@@ -3,5 +3,6 @@
   "author": "Vlad Senyuk",
   "description": "Npm packages",
   "version": "1.0.0",
+  "main": "index.js",
   "repository": "cwp-22-1"
 }
